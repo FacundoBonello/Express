@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Archivos temporales o del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables de entorno (si usás en el futuro)
+.env
+
